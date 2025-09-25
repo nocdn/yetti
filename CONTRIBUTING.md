@@ -1,4 +1,4 @@
-## Committing features
+## CONTRIBUTING
 
 **All changes must be made in feature (and pull requests) branches** - never commit directly to the main branch.
 
